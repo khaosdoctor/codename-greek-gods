@@ -1,0 +1,12 @@
+{
+  "name": "codename-greek-gods",
+  "version": "1.0.0",
+  "description": "Greek gods names parser for codename",
+  "main": "index.js",
+  "repository": "https://github.com/khaosdoctor/codename-greek-gods.git",
+  "author": "Lucas Santos <lhs.santoss@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@khaosdoctor/codename": "^1.0.0"
+  }
+}
